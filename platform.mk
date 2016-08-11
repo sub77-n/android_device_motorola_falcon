@@ -14,7 +14,7 @@
 
 $(call inherit-product, device/sony/common/common.mk)
 
-SOMC_PLATFORM := rhine
+SOMC_PLATFORM := falcon
 
 SONY_ROOT := device/sony/falcon/rootdir
 
